@@ -1,0 +1,1 @@
+{"name":"x-creator-rankings","version":"1.0.0","description":"Track and compare X creator engagement rankings using LunarCrush API","scripts":{"lookup":"node index.js","compare":"node compare.js"},"author":"Joe Vezzani","license":"MIT"}
